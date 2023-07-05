@@ -1,0 +1,6 @@
+{
+	Sun Jul 02 2023 21:59:10 
+	[error] 
+	error: error connecting to database
+	MongoNetworkError: connection 1 to 13.235.234.46:27017 closed
+}

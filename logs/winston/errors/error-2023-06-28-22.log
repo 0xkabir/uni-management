@@ -1,0 +1,12 @@
+{
+	Wed Jun 28 2023 22:11:18 
+	[error] 
+	error: error connecting to database
+	Error: queryTxt ESERVFAIL cluster0.ipnjwkc.mongodb.net
+}
+{
+	Wed Jun 28 2023 22:11:42 
+	[error] 
+	error: error connecting to database
+	Error: queryTxt ESERVFAIL cluster0.ipnjwkc.mongodb.net
+}

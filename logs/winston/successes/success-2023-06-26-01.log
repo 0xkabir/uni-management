@@ -1,0 +1,55 @@
+{
+	Mon Jun 26 2023 1:8:40 
+	[success] 
+	info: SIGTERM Received
+}
+{
+	Mon Jun 26 2023 1:10:14 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Mon Jun 26 2023 1:10:14 
+	[success] 
+	info: Application Listening at port 5000
+}
+{
+	Mon Jun 26 2023 1:16:40 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Mon Jun 26 2023 1:16:40 
+	[success] 
+	info: Application Listening at port 5000
+}
+{
+	Mon Jun 26 2023 1:55:44 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Mon Jun 26 2023 1:55:44 
+	[success] 
+	info: Application Listening at port 5000
+}
+{
+	Mon Jun 26 2023 1:58:58 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Mon Jun 26 2023 1:58:58 
+	[success] 
+	info: Application Listening at port 5000
+}
+{
+	Mon Jun 26 2023 1:59:51 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Mon Jun 26 2023 1:59:51 
+	[success] 
+	info: Application Listening at port 5000
+}

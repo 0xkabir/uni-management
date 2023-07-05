@@ -1,0 +1,35 @@
+{
+	Sun Jun 25 2023 12:13:1 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Sun Jun 25 2023 12:13:1 
+	[success] 
+	info: Application Listening at port 5000
+}
+{
+	Sun Jun 25 2023 12:14:26 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Sun Jun 25 2023 12:14:26 
+	[success] 
+	info: Application Listening at port 5000
+}
+{
+	Sun Jun 25 2023 12:15:0 
+	[success] 
+	info: SIGTERM Received
+}
+{
+	Sun Jun 25 2023 12:17:21 
+	[success] 
+	info: Database Connection Successful
+}
+{
+	Sun Jun 25 2023 12:17:21 
+	[success] 
+	info: Application Listening at port 5000
+}

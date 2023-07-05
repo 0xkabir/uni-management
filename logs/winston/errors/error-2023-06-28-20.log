@@ -1,0 +1,5 @@
+{
+	Wed Jun 28 2023 20:7:10 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a2c84f651d1" (type string) at path "_id" for model "AcademicSemester"
+}

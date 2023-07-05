@@ -1,0 +1,5 @@
+{
+	Wed Jun 28 2023 13:29:32 
+	[error] 
+	error: $regex has to be a string
+}

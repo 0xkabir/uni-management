@@ -1,0 +1,17 @@
+{
+	Wed Jun 28 2023 21:54:5 
+	[error] 
+	error: error connecting to database
+	Error: queryTxt ESERVFAIL cluster0.ipnjwkc.mongodb.net
+}
+{
+	Wed Jun 28 2023 21:54:21 
+	[error] 
+	error: error connecting to database
+	Error: queryTxt ESERVFAIL cluster0.ipnjwkc.mongodb.net
+}
+{
+	Wed Jun 28 2023 21:55:44 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8b17a0a242c84f651e" (type string) at path "_id" for model "AcademicSemester"
+}

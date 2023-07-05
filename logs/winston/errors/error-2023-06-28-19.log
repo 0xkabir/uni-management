@@ -1,0 +1,55 @@
+{
+	Wed Jun 28 2023 19:31:45 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:33:14 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:34:33 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:35:21 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:36:54 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:38:39 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:39:33 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:40:34 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:40:52 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:46:4 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}
+{
+	Wed Jun 28 2023 19:57:10 
+	[error] 
+	error: Cast to ObjectId failed for value "649be8857a0a242c84f651" (type string) at path "_id" for model "AcademicSemester"
+}

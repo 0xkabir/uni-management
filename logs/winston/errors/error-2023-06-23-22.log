@@ -1,0 +1,6 @@
+{
+	Fri Jun 23 2023 22:25:11 
+	[error] 
+	error: error connecting to database
+	MongoServerError: bad auth : Authentication failed.
+}
